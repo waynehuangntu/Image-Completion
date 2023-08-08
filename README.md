@@ -1,4 +1,5 @@
 # Statistics of Patch Offsets for Image Completion
+![image](https://github.com/waynehuangntu/NTU-VFX-2022/blob/main/images/source/floor.jpg) ![image](https://github.com/waynehuangntu/NTU-VFX-2022/blob/main/images/output/floor_Complete.png)
 ## Usage Instructions
 - Python Version – Python3
 - OpenCV is required
