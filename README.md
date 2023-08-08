@@ -1,5 +1,5 @@
 # Statistics of Patch Offsets for Image Completion
-## Supporting the removal of particular items in an image or repairing a damaged image
+## Supporting the removal of particular items in an image
 ![image](https://github.com/waynehuangntu/NTU-VFX-2022/blob/main/images/source/floor.jpg) ![image](https://github.com/waynehuangntu/NTU-VFX-2022/blob/main/images/output/floor_Complete.png)
 ## Usage Instructions
 - Python Version – Python3
